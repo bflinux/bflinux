@@ -1,3 +1,5 @@
+Hello! I'm currently improving the programming logic, so if you have some basic/medium challenges, send them to me, I'll get back to you soon. oh I hope so hehe! See you later!
+
 - 👋 Hi, I’m @bflinux
 - 👀 I am interested in cybersecurity, C programming and Web Development
 - 🌱 I am currently learning to program in C and Web Development
